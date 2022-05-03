@@ -1,4 +1,4 @@
-# Introduction to Functions Lab
+ # Introduction to Functions Lab
 
 ## Learning Goals
 
